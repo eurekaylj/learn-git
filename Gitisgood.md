@@ -1,3 +1,5 @@
-Git is a version control system.
+Git Is a version control system.
 
-Git is free software.
+Git Is free software.
+
+oh. Git is so good

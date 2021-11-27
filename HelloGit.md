@@ -1,1 +1,0 @@
-Computer Science is a fun subject.
